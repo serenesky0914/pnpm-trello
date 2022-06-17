@@ -12,9 +12,9 @@ We provide a basic setup and a functional first version of the desired web app i
 
 ### UI
 
-1. Build a UI with 3 columns that looks a bit better than the one we provided.
-2. Render the name of each task instead of its ID.
-3. Each column should have its own separate scroll.
+Updated : 1. Build a UI with 3 columns that looks a bit better than the one we provided.
+Updated : 2. Render the name of each task instead of its ID.
+Updated : 3. Each column should have its own separate scroll.
 
 ## What will we be paying attention to?
 
