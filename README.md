@@ -11,11 +11,12 @@ We provide a basic setup and a functional first version of the desired web app i
 3. Use your structure created in the previous step to render the data.
 
 ### UI
-
+```
 Updated : 1. Build a UI with 3 columns that looks a bit better than the one we provided.
 Updated : 2. Render the name of each task instead of its ID.
 Updated : 3. Each column should have its own separate scroll.
-
+### I fixed frontend within mobile responsive.
+```
 ## What will we be paying attention to?
 
 1. Coding style and consistency.
