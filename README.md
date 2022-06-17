@@ -14,9 +14,11 @@ We provide a basic setup and a functional first version of the desired web app i
 ```
 Updated : 1. Build a UI with 3 columns that looks a bit better than the one we provided.
 Updated : 2. Render the name of each task instead of its ID.
-Updated : 3. Each column should have its own separate scroll.
+Updated : 3. Each column should have its own separate scroll
 # I fixed frontend within mobile responsive.
 ```
+![trello-pnpm](https://user-images.githubusercontent.com/100112375/174252498-2877f0bb-a547-4aa6-86f3-439e8705a448.png)
+
 ## What will we be paying attention to?
 
 1. Coding style and consistency.
